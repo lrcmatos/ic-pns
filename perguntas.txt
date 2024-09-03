@@ -1,0 +1,70 @@
+//alimentos naturais ou básicos.
+
+P6a. Ontem, o(a) Sr(a) comeu:
+Arroz, macarrão, polenta, cuscuz ou milho verde? - Sim/Nao - P00601
+Batata comum, mandioca/aipim/macaxeira, cará ou inhame? - Sim/Nao - P00602
+Feijão, ervilha, lentilha ou grão de bico? - Sim/Nao - P00603
+Carne de boi, porco, frango ou peixe? - Sim/Nao - P00604
+Ovo (frito, cozido ou mexido)? - Sim/Nao - P00605
+Alface, couve, brócolis, agrião ou espinafre? - Sim/Nao - P00607
+Abóbora, cenoura, batata doce ou quiabo/caruru? - Sim/Nao - P00608
+Tomate, pepino, abobrinha, berinjela, chuchu ou beterraba? - Sim/Nao - P00609
+Mamão, manga, melão amarelo ou pequi? - Sim/Nao - P00610
+Laranja, banana, maçã ou abacaxi? - Sim/Nao - P00611
+Leite? - Sim/Nao - P00612
+Amendoim, castanha de caju ou castanha do Brasil/Pará? - Sim/Nao - P00613
+
+//produtos industrializados consumidos
+
+Ontem, o Sr comeu:
+Refrigerante? - Sim/Nao - P00614
+Suco de fruta em caixinha ou lata ou refresco em pó? - Sim/Nao - P00615
+Bebida achocolatada ou iogurte com sabor? - Sim/Nao - P00616
+Salgadinho de pacote ou biscoito/bolacha salgado? - Sim/Nao - P00617
+Biscoito/bolacha doce ou recheado ou bolo de pacote? - Sim/Nao - P00618
+Sorvete, chocolate, gelatina, flan ou outra sobremesa industrializada? - Sim/Nao - P00619
+Salsinha, linguiça, mortadela ou presunto? - Sim/Nao - P00620
+Pão de forma, de cachorro-quente ou de hambúrguer? - Sim/Nao - P00621
+Margarina, maionese, ketchup ou outros molhos industrializados? - Sim/nao - P00622
+Macarrão instantâneo, sopa de pacote, lasanha congelada ou outro prato
+congelado comprado pronto industrializado? - Sim/Nao - P00623
+
+//Consumo médio de alimentos
+
+Em quantos dias da semana o(a) Sr(a) costuma comer feijão? - x/semana - P006
+Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de
+verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate,
+couve, cenoura, chuchu, berinjela, abobrinha? - x/semana - P00901
+Em quantos dias da semana, o(a) Sr(a) costuma comer carne vermelha (boi,
+porco, cabrito, bode, ovelha etc.)? - x/semana - P01101
+Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? - x/semana - P013
+Em quantos dias da semana, o(a) Sr(a) costuma comer peixe? - x/semana - P015
+Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó? - x/semana - P02001
+Que tipo de suco de caixinha/lata ou refresco em pó o(a) Sr(a) costuma tomar? - x/semana - 1,2,3 - P02101
+Em quantos dias da semana o(a) Sr(a) costuma tomar suco de fruta natural (incluída a polpa de fruta congelada)? - x/semana - P01601
+Em quantos dias da semana o(a) Sr(a) costuma comer frutas? - x/semana - P018
+Em geral, quantas vezes por dia o(a) Sr(a) come frutas? - 1,2,3 - P019
+Em quantos dia da semana o(a) Sr(a) costuma tomar refrigerante? - x/semana - P02002
+Que tipo de refrigerante o(a0 Sr(a) costuma tomar? - 1,2,3 - P02102
+Em quantos dia da semana o(a) Sr(a) costuma tomar leite? (de origem animal: vaca, cabra, búfala etc.) - x/semana - P023
+Que tipo de leite o(a) Sr(a) costuma tomar? - 1,2,3 - P02401
+Em quantos dia da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros? - x/semana - P02501
+Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizzas, cachorro quente etc.? - x/semana - P02602
+Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: (Leia as opções de resposta abaixo) - 1,2,3,4,5 - P02601
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
